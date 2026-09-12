@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real Estate Syndications Hub</title>
+    <link>https://real-estate-syndications-hub.netlify.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Sat, 12 Sep 2026 10:37:44 GMT</lastBuildDate>
+    <atom:link href="https://real-estate-syndications-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Real Estate Syndications Hub Initial Release</title>
+      <link>https://real-estate-syndications-hub.netlify.app/</link>
+      <pubDate>Sat, 12 Sep 2026 10:37:44 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
