@@ -4,10 +4,17 @@
     <title>Real Estate Syndications Hub</title>
     <link>https://real-estate-syndications-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:05:02 GMT</lastBuildDate>
     <atom:link href="https://real-estate-syndications-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/investing Long Term Wealth (Reddit)</title>
+      <link>https://www.reddit.com/r/investing/</link>
+      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:05:02 GMT</pubDate>
+      <description>Newly verified community added to Real Estate Syndications Hub: Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.</description>
+    </item>
+<item>
       <title>Real Estate Syndications Hub Initial Release</title>
       <link>https://real-estate-syndications-hub.netlify.app/</link>
       <pubDate>Sat, 12 Sep 2026 10:37:44 GMT</pubDate>
