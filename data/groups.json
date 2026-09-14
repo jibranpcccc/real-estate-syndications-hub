@@ -1,5 +1,24 @@
 [
   {
+    "id": "real-estate-syndications-hub-reddit-20260914-1",
+    "title": "r/stocks Market News",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "6,400,000+ members",
+    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "stocks",
+      "wall-street",
+      "earnings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "real-estate-syndications-hub-reddit-20260913-1",
     "title": "r/investing Long Term Wealth",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
