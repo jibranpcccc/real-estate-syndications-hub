@@ -4,10 +4,17 @@
     <title>Real Estate Syndications Hub</title>
     <link>https://real-estate-syndications-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:06:52 GMT</lastBuildDate>
     <atom:link href="https://real-estate-syndications-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                            <item>
+                                <item>
+      <title>📅 Today's Fresh Pick: Bogleheads Forum Community (Forum)</title>
+      <link>https://bogleheads.org/forum/</link>
+      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-forum-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:06:52 GMT</pubDate>
+      <description>Newly verified community added to Real Estate Syndications Hub: The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Bloomberg Market Feed Channel (Telegram)</title>
       <link>https://t.me/bloomberg</link>
       <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-telegram-20260919-1-2026-09-19</guid>
