@@ -4,10 +4,17 @@
     <title>Real Estate Syndications Hub</title>
     <link>https://real-estate-syndications-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:04:53 GMT</lastBuildDate>
     <atom:link href="https://real-estate-syndications-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-forum-20261006-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:04:53 GMT</pubDate>
+      <description>Newly verified community added to Real Estate Syndications Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-forum-20261006-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-telegram-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:04:40 GMT</pubDate>
       <description>Newly verified community added to Real Estate Syndications Hub: Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/wallstreetbets Alpha &amp; Options (Reddit)</title>
-      <link>https://www.reddit.com/r/wallstreetbets/</link>
-      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-reddit-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:18:38 GMT</pubDate>
-      <description>Newly verified community added to Real Estate Syndications Hub: High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.</description>
     </item>
   </channel>
 </rss>
