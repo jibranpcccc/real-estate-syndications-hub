@@ -1,5 +1,24 @@
 [
   {
+    "id": "real-estate-syndications-hub-reddit-1",
+    "title": "Real Estate Investing Forum",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "2,100,000+ members",
+    "description": "Premier global forum for real estate investors, BRRRR strategy, wholesaling tips, and rental portfolio scaling.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "brrrr",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "real-estate-syndications-hub-forum-20261006-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -378,24 +397,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "real-estate-syndications-hub-reddit-1",
-    "title": "Real Estate Investing Forum",
-    "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "2,100,000+ members",
-    "description": "Premier global forum for real estate investors, BRRRR strategy, wholesaling tips, and rental portfolio scaling.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
-    "tags": [
-      "real-estate",
-      "brrrr",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "real-estate-syndications-hub-reddit-2",
