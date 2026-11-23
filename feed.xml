@@ -4,10 +4,17 @@
     <title>Real Estate Syndications Hub</title>
     <link>https://real-estate-syndications-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:13:42 GMT</lastBuildDate>
     <atom:link href="https://real-estate-syndications-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Homeowners &amp; Renovation Value Network (Reddit)</title>
+      <link>https://www.reddit.com/r/homeowners/</link>
+      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-reddit-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:13:42 GMT</pubDate>
+      <description>Newly verified community added to Real Estate Syndications Hub: Renovation cost benchmarks, contractor vetting, and property equity enhancement strategies.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Property Investing &amp; Deal Sourcing (Reddit)</title>
       <link>https://www.reddit.com/r/propertyinvesting/</link>
       <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-reddit-5-2026-11-22</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-forum-20261006-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:05:05 GMT</pubDate>
-      <description>Newly verified community added to Real Estate Syndications Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://real-estate-syndications-hub.netlify.app/#real-estate-syndications-hub-forum-20261006-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:05:02 GMT</pubDate>
       <description>Newly verified community added to Real Estate Syndications Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
